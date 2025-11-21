@@ -16,8 +16,6 @@
 - [📦 V2Box 使用步骤](#-v2box-使用步骤新手最简单)
 - [🆚 对比：ClashMI & V2Box](#-一眼对比应该选哪个)
 - [🔗 代理推荐](#-代理推荐)
-- [📸 带图片教程](#-带图片教程跳转按钮)
-- [⭐ 本教程持续更新](#-本教程持续更新)
 
 ---
 
@@ -53,6 +51,7 @@ https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
 3. 点击 **＋**  
 4. 导入方式：URL / 扫码 / 文件  
 5. 启用即可
+   
 [👉 点我查看带图片教程](https://github.com/your-image-tutorial-repo)
 
 ---
@@ -92,5 +91,5 @@ https://neelaworld.com/#/register?code=DrY8tbLQ
 
 ---
 
-## ⭐ 本教程持续更新  
+## ⭐ 
 欢迎 Star ⭐ 收藏。
