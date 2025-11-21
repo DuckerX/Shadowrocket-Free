@@ -28,6 +28,11 @@ https://apps.apple.com/us/app/clash-mi/id6744321968
 https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690  
 
 ⚠️ 两个应用均需 **非中国区 Apple ID** 才能下载。
+如需要
+## 🥈 价格适中（提供免费小火箭）
+- **多地区｜高速｜最低 1 位数 RMB 套餐**  
+- 所有套餐 7.5 折：`JustTRY`  
+https://neelaworld.com/#/register?code=DrY8tbLQ
 
 ---
 
@@ -40,7 +45,7 @@ https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
 5. 保存后 **Set as Default**  
 6. 首页开关 → 开启即可
 
-[👉 点我查看带图片教程](https://github.com/your-image-tutorial-repo)
+[👉 点我查看带图片教程]([https://github.com/your-image-tutorial-repo](https://github.com/DuckerX/Clash-Mi))
 
 ---
 
@@ -52,7 +57,7 @@ https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690
 4. 导入方式：URL / 扫码 / 文件  
 5. 启用即可
    
-[👉 点我查看带图片教程](https://github.com/your-image-tutorial-repo)
+[👉 点我查看带图片教程]([https://github.com/your-image-tutorial-repo](https://github.com/DuckerX/v2box))
 
 ---
 
